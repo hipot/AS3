@@ -42,5 +42,10 @@ function playerSoung( caller, sUrl ) {
 <a href="javascript:void(0);" onclick="playerSoung(this, 'mp3/cosm.mp3');return false;">Play Sound 1</a>
 <a href="javascript:void(0);" onclick="playerSoung(this, 'mp3/snd2.mp3');return false;">Play Sound 2</a>
 ```
-    
+### Инстансы при дизайне во флеше (на панели свойств), дать имена:
+scroller_load_mc - горизонтальный загрузчик
+scroller_play_mc - плавающая головка в загрузчике
+pause_btn, play_btn - кнопки пауза/старт
+time_txt - поле с временем 00:00
+
   
