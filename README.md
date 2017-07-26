@@ -4,7 +4,7 @@ ActionScript3 наработки, для истории ;)
 ## DttPlayer.as
 mp3 плеер на AcrionScript3 
 
-![вот так плеер выглядел, дизайн тоже мой](https://www.facebook.com/photo/download/?fbid=502801389911206&ext=1501361235&hash=AeT2lDML7j3mUobA)
+![вот так плеер выглядел, дизайн тоже мой](https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/13092083_502801389911206_80607380109027565_n.jpg?oh=086ebf846ebd10841f8ddef9ae88fb26&oe=5A067F95)
 
 ### возможности:
 * предлоадер 
