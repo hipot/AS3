@@ -1,5 +1,5 @@
 # AS3
-ActionScript3
+ActionScript3 наработки, для истории ;)
 
 ## DttPlayer.as
 mp3 плеер на AcrionScript3 
