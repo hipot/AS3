@@ -173,6 +173,7 @@ package {
 			this.scroller_load_mc.scaleX = 1;
 			show_leng_time(_sound.length);			
 		}*/
+        
 		private function soundCompleteHandler(e:Event):void {  
 			this.scroller_play_mc.scaleX = 1;
 			removeEventListener(Event.ENTER_FRAME, playingHandler);	
